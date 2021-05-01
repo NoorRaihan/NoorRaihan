@@ -1,5 +1,5 @@
 ### Hi there 👋
-(https://github-readme-stats.vercel.app/api?username=NoorRaihan)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NoorRaihan)](https://github.com/qeifar/github-readme-stats)
+![RB's github stats](https://github-readme-stats.vercel.app/api?username=NoorRaihan)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NoorRaihan)](https://github.com/NoorRaihan/github-readme-stats)
 <!--
 **NoorRaihan/NoorRaihan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
