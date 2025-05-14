@@ -1,4 +1,12 @@
-### Hi there 👋
+# 👋 Hey there, I'm Raihan!
+
+Just a curious human who loves to build things — sometimes out of passion, sometimes out of chaos (but mostly both).  
+Caught between backend code, cyber stuff, and random project ideas at 2AM.
+
+⚡ Big fan of:  
+🐔 Chicken nuggets  
+💻 Late-night coding  
+
 ![RB's github stats](https://github-readme-stats.vercel.app/api?username=NoorRaihan) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NoorRaihan&size_weight=0&count_weight=1&&hide=css,shell,html,javascript&exclude_repo=github-readme-stats,airbyte,student4u_mobile)](https://github.com/NoorRaihan/github-readme-stats)
 <!--
 **NoorRaihan/NoorRaihan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
